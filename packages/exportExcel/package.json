@@ -11,7 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.21",
+    "rc-field-form": "^1.22.0",
+    "react-dom": "^18.1.0"
   },
   "devDependencies": {
     "@ant-design/pro-form": "^1.69.3",
@@ -19,6 +21,7 @@
     "react": "^18.1.0"
   },
   "peerDependencies": {
+    "@ant-design/pro-form": "^1.69.3",
     "antd": "^4.20.7",
     "react": "^18.1.0"
   }
